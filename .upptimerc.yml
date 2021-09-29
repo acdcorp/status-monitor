@@ -16,16 +16,23 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.acdcorp.com
+  metaTags:
+    - name: "color-scheme"
+      content: "dark light"
+    - name: "robots"
+      content: "noindex"
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/acdcorp/status-monitor/master/assets/favicon.svg
+  favicon: https://raw.githubusercontent.com/acdcorp/status-monitor/master/assets/ACD-favicon-32px.png
+  faviconSvg: https://raw.githubusercontent.com/acdcorp/status-monitor/master/assets/favicon.svg
   name: ACD System Status
   introTitle: "ACD System Status"
   introMessage: System status of ACD services.
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    # - title: Status
+    #   href: /
+    # - title: GitHub
+    #   href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
