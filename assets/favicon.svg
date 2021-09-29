@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="448px" height="444px" viewBox="0 0 448 444" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>favicon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="favicon" sketch:type="MSLayerGroup" transform="translate(-32.000000, -32.000000)">
+            <rect id="Rectangle-1" sketch:type="MSShapeGroup" x="0" y="0" width="512" height="512"></rect>
+            <path d="M373.480774,130.621276 L301.678683,32.5112093 L479.00513,32.5112093 L479.00513,475.359985 L301.678683,475.359985 L373.119301,384.550736 L373.480774,130.621276 Z" id="Fill-1" fill="#F36B25" sketch:type="MSShapeGroup"></path>
+            <path d="M211.863776,32.5112093 L283.302055,130.621276 L137.648356,130.621276 L137.648356,384.550736 L283.302055,384.550736 L211.863776,475.359985 L32,475.359985 L32,32.5112093 L211.863776,32.5112093 L211.863776,32.5112093 Z" id="Fill-3" fill="#1E3669" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
