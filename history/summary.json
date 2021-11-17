@@ -22,19 +22,19 @@
     "url": "https://auto.acdcorp.com",
     "icon": "https://favicons.githubusercontent.com/auto.acdcorp.com",
     "slug": "auto-link",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 471,
-    "timeDay": 488,
-    "timeWeek": 552,
-    "timeMonth": 481,
+    "timeDay": 472,
+    "timeWeek": 540,
+    "timeMonth": 480,
     "timeYear": 471,
     "dailyMinutesDown": {
-      "2021-11-17": 2
+      "2021-11-17": 5
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://autolink.acdcorp.com",
     "icon": "https://favicons.githubusercontent.com/autolink.acdcorp.com",
     "slug": "auto-link-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 246,
-    "timeDay": 244,
-    "timeWeek": 232,
+    "timeDay": 229,
+    "timeWeek": 230,
     "timeMonth": 220,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2021-11-17": 0
+      "2021-11-17": 4
     }
   },
   {
