@@ -22,10 +22,10 @@
     "url": "https://auto.acdcorp.com",
     "icon": "https://favicons.githubusercontent.com/auto.acdcorp.com",
     "slug": "auto-link",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 471,
@@ -33,16 +33,18 @@
     "timeWeek": 552,
     "timeMonth": 481,
     "timeYear": 471,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-17": 2
+    }
   },
   {
     "name": "AutoLink API",
     "url": "https://autolink.acdcorp.com",
     "icon": "https://favicons.githubusercontent.com/autolink.acdcorp.com",
     "slug": "auto-link-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 232,
     "timeMonth": 220,
     "timeYear": 246,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-17": 0
+    }
   },
   {
     "name": "CLARITY",
