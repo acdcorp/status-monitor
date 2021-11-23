@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/acdcorp.com",
     "slug": "marketing-website",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 530,
-    "timeDay": 272,
-    "timeWeek": 406,
-    "timeMonth": 608,
-    "timeYear": 530,
-    "dailyMinutesDown": {
-      "2021-11-22": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 525,
+    "timeDay": 249,
+    "timeWeek": 348,
+    "timeMonth": 602,
+    "timeYear": 525,
+    "dailyMinutesDown": {}
   },
   {
     "name": "AutoLink",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 479,
-    "timeDay": 475,
-    "timeWeek": 526,
-    "timeMonth": 507,
+    "timeDay": 512,
+    "timeWeek": 535,
+    "timeMonth": 510,
     "timeYear": 479,
     "dailyMinutesDown": {}
   },
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 250,
-    "timeDay": 214,
-    "timeWeek": 270,
-    "timeMonth": 235,
+    "timeDay": 257,
+    "timeWeek": 276,
+    "timeMonth": 236,
     "timeYear": 250,
     "dailyMinutesDown": {}
   },
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 388,
-    "timeDay": 341,
+    "time": 387,
+    "timeDay": 355,
     "timeWeek": 386,
-    "timeMonth": 396,
-    "timeYear": 388,
+    "timeMonth": 398,
+    "timeYear": 387,
     "dailyMinutesDown": {}
   }
 ]
