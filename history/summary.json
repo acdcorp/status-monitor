@@ -58,19 +58,19 @@
     "url": "https://clarity.acdcorp.com",
     "icon": "https://favicons.githubusercontent.com/clarity.acdcorp.com",
     "slug": "clarity",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 398,
-    "timeDay": 344,
-    "timeWeek": 407,
-    "timeMonth": 418,
-    "timeYear": 398,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 400,
+    "timeDay": 428,
+    "timeWeek": 428,
+    "timeMonth": 424,
+    "timeYear": 400,
     "dailyMinutesDown": {
-      "2021-12-23": 0
+      "2021-12-23": 10
     }
   }
 ]
