@@ -40,19 +40,19 @@
     "url": "https://autolink.acdcorp.com",
     "icon": "https://favicons.githubusercontent.com/autolink.acdcorp.com",
     "slug": "auto-link-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 263,
-    "timeDay": 349,
-    "timeWeek": 260,
-    "timeMonth": 240,
-    "timeYear": 263,
+    "time": 262,
+    "timeDay": 264,
+    "timeWeek": 250,
+    "timeMonth": 238,
+    "timeYear": 262,
     "dailyMinutesDown": {
-      "2022-01-27": 0
+      "2022-01-27": 4
     }
   },
   {
