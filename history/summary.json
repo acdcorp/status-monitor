@@ -60,9 +60,9 @@
     "url": "https://clarity.acdcorp.com",
     "icon": "https://favicons.githubusercontent.com/clarity.acdcorp.com",
     "slug": "clarity",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,6 +71,8 @@
     "timeWeek": 412,
     "timeMonth": 427,
     "timeYear": 415,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-04": 0
+    }
   }
 ]
