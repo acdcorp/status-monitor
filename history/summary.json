@@ -4,19 +4,19 @@
     "url": "https://acdcorp.com",
     "icon": "https://favicons.githubusercontent.com/acdcorp.com",
     "slug": "marketing-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 377,
-    "timeDay": 336,
-    "timeWeek": 358,
-    "timeMonth": 315,
-    "timeYear": 377,
+    "time": 376,
+    "timeDay": 236,
+    "timeWeek": 331,
+    "timeMonth": 309,
+    "timeYear": 376,
     "dailyMinutesDown": {
-      "2022-03-23": 0
+      "2022-03-23": 5
     }
   },
   {
