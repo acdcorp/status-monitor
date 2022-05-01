@@ -6,18 +6,16 @@
     "slug": "marketing-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 381,
-    "timeDay": 179,
-    "timeWeek": 240,
-    "timeMonth": 427,
-    "timeYear": 381,
-    "dailyMinutesDown": {
-      "2022-04-30": 11
-    }
+    "time": 379,
+    "timeDay": 187,
+    "timeWeek": 200,
+    "timeMonth": 424,
+    "timeYear": 379,
+    "dailyMinutesDown": {}
   },
   {
     "name": "AutoLink",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 489,
-    "timeDay": 508,
-    "timeWeek": 514,
-    "timeMonth": 454,
+    "timeDay": 534,
+    "timeWeek": 494,
+    "timeMonth": 457,
     "timeYear": 489,
     "dailyMinutesDown": {}
   },
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 283,
-    "timeDay": 278,
-    "timeWeek": 296,
-    "timeMonth": 330,
+    "timeDay": 274,
+    "timeWeek": 290,
+    "timeMonth": 331,
     "timeYear": 283,
     "dailyMinutesDown": {
       "2022-02-24": 35
@@ -69,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 420,
-    "timeDay": 503,
-    "timeWeek": 437,
-    "timeMonth": 443,
+    "timeDay": 477,
+    "timeWeek": 450,
+    "timeMonth": 447,
     "timeYear": 420,
     "dailyMinutesDown": {
       "2022-03-04": 69
