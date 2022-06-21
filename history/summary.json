@@ -22,9 +22,9 @@
     "url": "https://auto.acdcorp.com",
     "icon": "https://favicons.githubusercontent.com/auto.acdcorp.com",
     "slug": "auto-link",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -34,6 +34,7 @@
     "timeMonth": 354,
     "timeYear": 468,
     "dailyMinutesDown": {
+      "2022-06-21": 0,
       "2022-06-17": 19
     }
   },
@@ -42,18 +43,19 @@
     "url": "https://autolink.acdcorp.com",
     "icon": "https://favicons.githubusercontent.com/autolink.acdcorp.com",
     "slug": "auto-link-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 270,
-    "timeDay": 208,
+    "timeDay": 191,
     "timeWeek": 170,
-    "timeMonth": 197,
+    "timeMonth": 196,
     "timeYear": 270,
     "dailyMinutesDown": {
+      "2022-06-21": 0,
       "2022-06-17": 20,
       "2022-02-24": 35
     }
