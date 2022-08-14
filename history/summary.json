@@ -4,7 +4,7 @@
     "url": "https://acdcorp.com",
     "icon": "https://favicons.githubusercontent.com/acdcorp.com",
     "slug": "marketing-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 282,
     "timeMonth": 310,
     "timeYear": 371,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-14": 0
+    }
   },
   {
     "name": "AutoLink",
