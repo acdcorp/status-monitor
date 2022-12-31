@@ -33,7 +33,7 @@
     "time": 429,
     "timeDay": 648,
     "timeWeek": 459,
-    "timeMonth": 391,
+    "timeMonth": 386,
     "timeYear": 408,
     "dailyMinutesDown": {
       "2022-07-01": 55,
@@ -56,7 +56,7 @@
     "time": 242,
     "timeDay": 301,
     "timeWeek": 203,
-    "timeMonth": 175,
+    "timeMonth": 173,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2022-08-24": 78,
@@ -75,17 +75,16 @@
     "slug": "clarity",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 386,
     "timeDay": 573,
     "timeWeek": 462,
-    "timeMonth": 308,
+    "timeMonth": 303,
     "timeYear": 381,
     "dailyMinutesDown": {
-      "2022-12-30": 7,
       "2022-03-04": 69
     }
   }
