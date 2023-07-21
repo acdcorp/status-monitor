@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 324,
-    "timeDay": 309,
-    "timeWeek": 227,
-    "timeMonth": 283,
-    "timeYear": 308,
+    "timeDay": 431,
+    "timeWeek": 264,
+    "timeMonth": 293,
+    "timeYear": 309,
     "dailyMinutesDown": {
       "2022-11-29": 33
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 396,
-    "timeDay": 682,
-    "timeWeek": 416,
-    "timeMonth": 400,
+    "timeDay": 640,
+    "timeWeek": 476,
+    "timeMonth": 415,
     "timeYear": 409,
     "dailyMinutesDown": {}
   },
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 218,
-    "timeDay": 364,
-    "timeWeek": 216,
-    "timeMonth": 196,
+    "timeDay": 309,
+    "timeWeek": 245,
+    "timeMonth": 204,
     "timeYear": 220,
     "dailyMinutesDown": {
       "2022-08-24": 78,
@@ -63,18 +63,19 @@
     "url": "https://clarity.acdcorp.com",
     "icon": "https://icons.duckduckgo.com/ip3/clarity.acdcorp.com.ico",
     "slug": "clarity",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 391,
-    "timeDay": 600,
-    "timeWeek": 376,
-    "timeMonth": 438,
+    "timeDay": 498,
+    "timeWeek": 427,
+    "timeMonth": 450,
     "timeYear": 388,
     "dailyMinutesDown": {
+      "2023-07-21": 0,
       "2023-05-19": 15
     }
   }
