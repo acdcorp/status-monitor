@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 313,
-    "timeDay": 403,
-    "timeWeek": 277,
-    "timeMonth": 257,
-    "timeYear": 303,
+    "time": 314,
+    "timeDay": 493,
+    "timeWeek": 289,
+    "timeMonth": 262,
+    "timeYear": 302,
     "dailyMinutesDown": {
       "2022-11-29": 33
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 387,
-    "timeDay": 544,
-    "timeWeek": 366,
-    "timeMonth": 320,
+    "time": 388,
+    "timeDay": 407,
+    "timeWeek": 365,
+    "timeMonth": 318,
     "timeYear": 402,
     "dailyMinutesDown": {}
   },
@@ -47,15 +47,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 212,
-    "timeDay": 232,
-    "timeWeek": 168,
-    "timeMonth": 156,
+    "timeDay": 219,
+    "timeWeek": 170,
+    "timeMonth": 155,
     "timeYear": 215,
-    "dailyMinutesDown": {
-      "2022-08-24": 78
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CLARITY",
@@ -69,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 386,
-    "timeDay": 552,
-    "timeWeek": 371,
-    "timeMonth": 361,
+    "timeDay": 374,
+    "timeWeek": 370,
+    "timeMonth": 363,
     "timeYear": 390,
     "dailyMinutesDown": {
       "2023-05-19": 15
