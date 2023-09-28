@@ -6,17 +6,16 @@
     "slug": "marketing-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 308,
-    "timeDay": 244,
-    "timeWeek": 235,
-    "timeMonth": 267,
-    "timeYear": 292,
+    "timeDay": 211,
+    "timeWeek": 250,
+    "timeMonth": 268,
+    "timeYear": 291,
     "dailyMinutesDown": {
-      "2023-09-27": 6,
       "2022-11-29": 33
     }
   },
@@ -32,10 +31,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 394,
-    "timeDay": 451,
-    "timeWeek": 542,
-    "timeMonth": 472,
-    "timeYear": 406,
+    "timeDay": 589,
+    "timeWeek": 583,
+    "timeMonth": 484,
+    "timeYear": 405,
     "dailyMinutesDown": {
       "2023-09-22": 18
     }
@@ -51,10 +50,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 209,
-    "timeDay": 222,
-    "timeWeek": 184,
-    "timeMonth": 195,
+    "time": 210,
+    "timeDay": 267,
+    "timeWeek": 212,
+    "timeMonth": 202,
     "timeYear": 212,
     "dailyMinutesDown": {}
   },
@@ -70,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 388,
-    "timeDay": 606,
-    "timeWeek": 394,
-    "timeMonth": 412,
+    "timeDay": 469,
+    "timeWeek": 438,
+    "timeMonth": 421,
     "timeYear": 392,
     "dailyMinutesDown": {
       "2023-05-19": 15
