@@ -63,9 +63,9 @@
     "slug": "clarity",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 503,
     "timeDay": 12741,
@@ -73,7 +73,6 @@
     "timeMonth": 2006,
     "timeYear": 552,
     "dailyMinutesDown": {
-      "2023-12-13": 4,
       "2023-05-19": 15
     }
   }
