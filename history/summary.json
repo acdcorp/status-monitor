@@ -6,17 +6,17 @@
     "slug": "marketing-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 301,
-    "timeDay": 380,
-    "timeWeek": 553,
-    "timeMonth": 433,
+    "time": 299,
+    "timeDay": 375,
+    "timeWeek": 513,
+    "timeMonth": 429,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 11
     }
   },
   {
