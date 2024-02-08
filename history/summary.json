@@ -61,19 +61,19 @@
     "url": "https://clarity.acdcorp.com",
     "icon": "https://icons.duckduckgo.com/ip3/clarity.acdcorp.com.ico",
     "slug": "clarity",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 533,
-    "timeDay": 234,
-    "timeWeek": 355,
-    "timeMonth": 527,
-    "timeYear": 593,
+    "timeDay": 172,
+    "timeWeek": 324,
+    "timeMonth": 514,
+    "timeYear": 592,
     "dailyMinutesDown": {
-      "2024-02-08": 0,
+      "2024-02-08": 7,
       "2023-05-19": 15
     }
   }
