@@ -6,18 +6,16 @@
     "slug": "marketing-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 295,
     "timeDay": 226,
     "timeWeek": 268,
     "timeMonth": 269,
     "timeYear": 298,
-    "dailyMinutesDown": {
-      "2024-02-24": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AutoLink",
