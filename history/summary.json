@@ -24,9 +24,9 @@
     "slug": "auto-link",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 454,
     "timeDay": 562,
@@ -34,7 +34,6 @@
     "timeMonth": 403,
     "timeYear": 463,
     "dailyMinutesDown": {
-      "2024-06-24": 5,
       "2023-10-06": 33,
       "2023-09-22": 18
     }
@@ -62,19 +61,19 @@
     "url": "https://clarity.acdcorp.com",
     "icon": "https://icons.duckduckgo.com/ip3/clarity.acdcorp.com.ico",
     "slug": "clarity",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "96.80%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.99%",
-    "time": 725,
-    "timeDay": 5007,
-    "timeWeek": 1344,
-    "timeMonth": 907,
-    "timeYear": 846,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "90.21%",
+    "uptimeWeek": "98.60%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.97%",
+    "time": 749,
+    "timeDay": 8035,
+    "timeWeek": 2619,
+    "timeMonth": 1295,
+    "timeYear": 879,
     "dailyMinutesDown": {
-      "2024-06-24": 46
+      "2024-06-24": 141
     }
   }
 ]
