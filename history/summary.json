@@ -22,19 +22,19 @@
     "url": "https://auto.acdcorp.com",
     "icon": "https://icons.duckduckgo.com/ip3/auto.acdcorp.com.ico",
     "slug": "auto-link",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 454,
-    "timeDay": 548,
-    "timeWeek": 428,
-    "timeMonth": 397,
+    "timeDay": 562,
+    "timeWeek": 446,
+    "timeMonth": 403,
     "timeYear": 463,
     "dailyMinutesDown": {
-      "2024-06-24": 0,
+      "2024-06-24": 5,
       "2023-10-06": 33,
       "2023-09-22": 18
     }
@@ -64,9 +64,9 @@
     "slug": "clarity",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.11%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.80%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 725,
     "timeDay": 5007,
@@ -74,7 +74,7 @@
     "timeMonth": 907,
     "timeYear": 846,
     "dailyMinutesDown": {
-      "2024-06-24": 42
+      "2024-06-24": 46
     }
   }
 ]
