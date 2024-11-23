@@ -22,18 +22,20 @@
     "url": "https://auto.acdcorp.com",
     "icon": "https://icons.duckduckgo.com/ip3/auto.acdcorp.com.ico",
     "slug": "auto-link",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 451,
-    "timeDay": 222,
-    "timeWeek": 452,
-    "timeMonth": 411,
-    "timeYear": 428,
-    "dailyMinutesDown": {}
+    "timeDay": 183,
+    "timeWeek": 414,
+    "timeMonth": 402,
+    "timeYear": 427,
+    "dailyMinutesDown": {
+      "2024-11-23": 0
+    }
   },
   {
     "name": "AutoLink API",
