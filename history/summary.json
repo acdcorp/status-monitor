@@ -4,19 +4,19 @@
     "url": "https://acdcorp.com",
     "icon": "https://icons.duckduckgo.com/ip3/acdcorp.com.ico",
     "slug": "marketing-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 292,
-    "timeDay": 208,
-    "timeWeek": 252,
-    "timeMonth": 274,
+    "timeDay": 218,
+    "timeWeek": 250,
+    "timeMonth": 273,
     "timeYear": 279,
     "dailyMinutesDown": {
-      "2025-07-31": 0
+      "2025-07-31": 13
     }
   },
   {
@@ -46,7 +46,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/autolink.acdcorp.com.ico",
     "slug": "auto-link-api",
     "status": "down",
-    "uptime": "93.86%",
+    "uptime": "93.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -57,7 +57,7 @@
     "timeMonth": 207,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2025-07-31": 1220,
+      "2025-07-31": 1233,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
