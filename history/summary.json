@@ -4,7 +4,7 @@
     "url": "https://acdcorp.com",
     "icon": "https://icons.duckduckgo.com/ip3/acdcorp.com.ico",
     "slug": "marketing-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 252,
     "timeMonth": 274,
     "timeYear": 279,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-31": 0
+    }
   },
   {
     "name": "AutoLink",
@@ -44,18 +46,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/autolink.acdcorp.com.ico",
     "slug": "auto-link-api",
     "status": "down",
-    "uptime": "93.91%",
+    "uptime": "93.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "76.70%",
+    "uptimeYear": "76.47%",
     "time": 215,
     "timeDay": 78,
     "timeWeek": 167,
     "timeMonth": 207,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2025-07-31": 22,
+      "2025-07-31": 1220,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
