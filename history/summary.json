@@ -55,7 +55,7 @@
     "timeMonth": 243,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2025-08-15": 1423,
+      "2025-08-15": 1428,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
@@ -165,19 +165,19 @@
     "url": "https://clarity.acdcorp.com",
     "icon": "https://icons.duckduckgo.com/ip3/clarity.acdcorp.com.ico",
     "slug": "clarity",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 590,
-    "timeDay": 493,
-    "timeWeek": 465,
-    "timeMonth": 627,
-    "timeYear": 505,
+    "time": 589,
+    "timeDay": 273,
+    "timeWeek": 413,
+    "timeMonth": 609,
+    "timeYear": 504,
     "dailyMinutesDown": {
-      "2025-08-15": 0
+      "2025-08-15": 5
     }
   }
 ]
