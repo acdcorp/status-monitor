@@ -4,18 +4,20 @@
     "url": "https://acdcorp.com",
     "icon": "https://icons.duckduckgo.com/ip3/acdcorp.com.ico",
     "slug": "marketing-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 290,
-    "timeDay": 390,
-    "timeWeek": 264,
-    "timeMonth": 262,
+    "time": 291,
+    "timeDay": 393,
+    "timeWeek": 280,
+    "timeMonth": 265,
     "timeYear": 279,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-16": 10
+    }
   },
   {
     "name": "AutoLink",
@@ -55,7 +57,7 @@
     "timeMonth": 243,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2025-08-16": 1086,
+      "2025-08-16": 1097,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
