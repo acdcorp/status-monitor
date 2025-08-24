@@ -6,18 +6,16 @@
     "slug": "marketing-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 287,
     "timeDay": 345,
     "timeWeek": 273,
     "timeMonth": 258,
     "timeYear": 280,
-    "dailyMinutesDown": {
-      "2025-08-23": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AutoLink",
@@ -50,14 +48,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "70.13%",
+    "uptimeYear": "70.12%",
     "time": 217,
     "timeDay": 125,
     "timeWeek": 165,
     "timeMonth": 231,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2025-08-23": 1417,
+      "2025-08-24": 23,
+      "2025-08-23": 1440,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
