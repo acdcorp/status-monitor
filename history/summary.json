@@ -4,11 +4,11 @@
     "url": "https://acdcorp.com",
     "icon": "https://icons.duckduckgo.com/ip3/acdcorp.com.ico",
     "slug": "marketing-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 299,
     "timeDay": 256,
@@ -16,7 +16,7 @@
     "timeMonth": 357,
     "timeYear": 293,
     "dailyMinutesDown": {
-      "2025-08-31": 5
+      "2025-08-31": 1
     }
   },
   {
@@ -57,7 +57,7 @@
     "timeMonth": 240,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2025-08-31": 463,
+      "2025-08-31": 490,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
