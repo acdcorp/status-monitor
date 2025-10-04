@@ -6,16 +6,17 @@
     "slug": "marketing-website",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 295,
+    "time": 299,
     "timeDay": 266,
     "timeWeek": 251,
     "timeMonth": 314,
-    "timeYear": 296,
+    "timeYear": 297,
     "dailyMinutesDown": {
+      "2025-10-04": 6,
       "2025-09-02": 15
     }
   },
@@ -57,7 +58,7 @@
     "timeMonth": 211,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-10-04": 1162,
+      "2025-10-04": 1168,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
