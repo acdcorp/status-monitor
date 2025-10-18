@@ -50,14 +50,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "55.07%",
+    "uptimeYear": "55.06%",
     "time": 219,
     "timeDay": 155,
     "timeWeek": 187,
     "timeMonth": 206,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2025-10-17": 1414,
+      "2025-10-18": 18,
+      "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -232,17 +233,15 @@
     "slug": "clarity",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 506,
     "timeDay": 145,
     "timeWeek": 299,
     "timeMonth": 482,
     "timeYear": 462,
-    "dailyMinutesDown": {
-      "2025-10-17": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
