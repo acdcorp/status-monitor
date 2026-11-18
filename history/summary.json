@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 315,
-    "timeDay": 361,
-    "timeWeek": 303,
+    "timeDay": 175,
+    "timeWeek": 281,
     "timeMonth": 292,
     "timeYear": 300,
     "dailyMinutesDown": {
@@ -31,12 +31,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 571,
-    "timeDay": 498,
-    "timeWeek": 602,
-    "timeMonth": 598,
-    "timeYear": 614,
+    "timeDay": 408,
+    "timeWeek": 573,
+    "timeMonth": 604,
+    "timeYear": 613,
     "dailyMinutesDown": {
-      "2025-11-18": 150,
       "2026-05-21": 65
     }
   },
@@ -46,18 +45,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/autolink.acdcorp.com.ico",
     "slug": "auto-link-api",
     "status": "down",
-    "uptime": "70.16%",
+    "uptime": "70.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 185,
-    "timeDay": 146,
-    "timeWeek": 132,
-    "timeMonth": 136,
+    "timeDay": 129,
+    "timeWeek": 133,
+    "timeMonth": 140,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2026-11-17": 19,
+      "2026-11-18": 18,
+      "2026-11-17": 1440,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
@@ -420,8 +420,7 @@
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
-      "2025-11-19": 1440,
-      "2025-11-18": 1440
+      "2025-11-19": 1440
     }
   },
   {
@@ -436,10 +435,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 534,
-    "timeDay": 659,
-    "timeWeek": 667,
-    "timeMonth": 729,
-    "timeYear": 533,
+    "timeDay": 331,
+    "timeWeek": 619,
+    "timeMonth": 734,
+    "timeYear": 532,
     "dailyMinutesDown": {
       "2026-03-04": 38,
       "2026-06-02": 84,
